@@ -1,0 +1,621 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Gr",
+				"Ground"
+			],
+			[
+				"Free",
+				"FreeShip100"
+			],
+			[
+				"no",
+				"notes"
+			],
+			[
+				"poso",
+				"posoe_products"
+			],
+			[
+				"or",
+				"orderId"
+			],
+			[
+				"hasFre",
+				"hasFreeShippingItems"
+			],
+			[
+				"box",
+				"box_id"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"free_",
+				"free_ship_method"
+			],
+			[
+				"rafe",
+				"rafe"
+			],
+			[
+				"dis",
+				"disablePopup"
+			],
+			[
+				"ship",
+				"ship_method"
+			],
+			[
+				"free",
+				"freeMethod"
+			],
+			[
+				"prod",
+				"prod_info_notes"
+			],
+			[
+				"getA",
+				"getAttributeText"
+			],
+			[
+				"pos",
+				"posoe_products"
+			],
+			[
+				"all",
+				"allowedStates"
+			],
+			[
+				"visi",
+				"visitorLocation"
+			],
+			[
+				"Visit",
+				"VisitorLocation"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"isFre",
+				"isFreeShipping"
+			],
+			[
+				"disa",
+				"disable_freeshipping"
+			],
+			[
+				"round",
+				"round_qty"
+			],
+			[
+				"_",
+				"_product"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"price",
+				"price_control_text"
+			],
+			[
+				"use",
+				"usedAttributeValues"
+			],
+			[
+				"api",
+				"apikey"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"center",
+				"center"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"getDa",
+				"getDates"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 587.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Changelog"
+			],
+			[
+				"remote",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 824.0
+	},
+	"console":
+	{
+		"height": 266.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/HackerRank-PHP"
+	],
+	"file_history":
+	[
+		"/D/magnusontech.net/sftp-config.json",
+		"/C/Users/rafe/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/magnusontech - siteground",
+		"/C/Program Files/Mixxx/skins/RoundCorners-master/style.qss",
+		"/C/Users/rafe/Desktop/cyclesmart/cyclesmart.csv",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/SplitShip/Model/Posoe.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/SplitShip/Model/Calculate.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/OnepageCheckout/controllers/OnepageController.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/checkout/cart/item/default.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/page/html/header.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/totals1.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/onepage.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/catalog/product/view.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/sftp-config.json",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/PV/PVFGS/Model/Newsletter.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/etc/local.xml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/etc/config.xml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/etc/config.xml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/etc/local.xml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/totals3.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/totals2.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/html/header.phtml",
+		"/C/Users/rafe/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/rafe/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/cms/promotion.phtml",
+		"/C/Users/rafe/Desktop/PV/Fwd  Your 10% OFF Coupon!.html",
+		"/D/Peaceful Valley/From Mac/groworganic.com/Checkout Backup/app/code/local/Alpine/SplitShip/Model/Calculate.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/html/footer.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/default/template/page/cms/awards-and-certifications.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/locale/en_US/template/email/sales/abandoned_cart.html",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Catalog/Model/Product.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/page/html/footer.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/form/newsletter_ajax.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/PvSplitquote/Model/Split.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/default/template/catalog/product/list.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/default/template/page/cms/quick-order.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Payment/Model/Method/Abstract.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/.htaccess",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/checkout/cart.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/shipping.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/html/topmenu.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/page/html/head.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/onepagecheckout/totals4.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/page/html/visitorLocation.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/page/html/topmenu.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/elasticsearch/vendor/elasticsearch/elasticsearch/README.md",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/onepagecheckout/shipping.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/.htaccess",
+		"/D/Peaceful Valley/From Mac/groworganic.com/New Checkout/BACKUP/app/code/local/Alpine/SplitShip/Model/Calculate.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/New Checkout/app/code/local/Alpine/SplitShip/Model/Calculate.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/Alpine/PvSplitquote/Model/Split.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/elasticsearch/update.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/elasticsearch/update.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/checkout/cart.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Checkout/controllers/OnepageController.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/Alpine/SplitShip/Model/Calculate.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/elasticsearch/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/skin/frontend/go/default/css/main.css",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/skin/frontend/go/default/css/main.min.css",
+		"/D/Peaceful Valley/From Mac/groworganic.com/skin/frontend/go/default/css/main.css",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/html/head.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/skin/frontend/go/default/css/main.min.css",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/alpine/template/page/html/topmenu-NORMAL.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Sales/Model/Order.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/complaint/index.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/employment/index.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/iron2/iron2.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/form/bugs.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/form/unsubscribe.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/errors/local.xml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/swiftype/upload_products_all.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/form/emailseries.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/form/covercrop.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/automation/free_seeds/index-.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/Alpine/OnepageCheckout/Block/Onepage/Success.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/PV/Checkout/controllers/FeedbackController.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/photo-contest/update.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/photo-contest/download.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/download-order/download.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Checkout/Block/Cart/Item/Renderer.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/pv_interface/pvfgs/template/page/home.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/community/Yireo/DisableLog/Model/Rewrite/Log/Visitor.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Model/Sales/Order/Create.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/carts/cart.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/default/template/catalog/product/list.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/CatalogInventory/Model/Stock/Item.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/seeddatabase/include/externals/dojo/dojox/math/matrix.js",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Core/Model/Factory.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/default/template/catalog/product/view/addtocart.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/development/order-checks/index.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/iron2/iron2.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/var/import/iRon/12-26-2017/inventory-14_56_02",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/create/EmailReportPlugin.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/update/Magmi_CSVDataSource.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/update/EmailReportPlugin.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/create/Magmi_CSVDataSource.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/misc/EmailReportPlugin.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/misc/Magmi_CSVDataSource.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/seed/Magmi_CSVDataSource.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/magmi.ini",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/conf/Magmi_CSVDataSource.conf",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/development/magmi4iron/index.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/catalogsearch/result.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/pv_interface/pvfgs/template/catalog/product/view/type/simple.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/default/template/catalog/product/view/type/default.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/default/template/catalog/product/view/tierprices.phtml",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/design/frontend/go/default/template/catalog/product/view/tierprices.phtml",
+		"/C/Users/rafe/Desktop/PV/catalogs.html",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Bundle/Model/Option.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/Mage.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/local/Alpine/OnepageCheckout/controllers/OnepageController.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Checkout/Helper/Data.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/app/code/core/Mage/Checkout/Helper/Data.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/PV/PVFGS/Model/Posoe.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/PayeezyGateway/Model/Payment.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Created.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Bundle/Model/Product/Price.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Edit/Action/Attribute/Tab/Attributes.php",
+		"/D/Peaceful Valley/From Mac/groworganic.com/organic-gardening/system/ee/EllisLab/ExpressionEngine/Service/Alert/Alert.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/organic-gardening/system/ee/EllisLab/ExpressionEngine/Service/Alert/Alert.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Core/etc/system.xml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/sift-php/lib/SiftClient.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/design/frontend/go/alpine/template/googleanalytics/ga.phtml",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/js/prototype/prototype.js",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/automation/includes/functions.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/PV/Checkout/Block/Review.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/OnepageCheckout/Model/Observer.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Sales/Order/Create/Items/Grid.php",
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Template.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HFI",
+			"ship_method",
+			"mail",
+			"hasFreeShippingItems",
+			"updateGiftcard",
+			"mail",
+			"getMethodId",
+			"mail",
+			"isFreeShipping",
+			"getFreeShipMethod",
+			"backorder",
+			"pickup-6",
+			"getCombinedBoxes",
+			"back",
+			"FreeShip 100",
+			"13",
+			"setfreeshipmethod",
+			"setfreeship",
+			"getFreeShipMethod",
+			"case",
+			"freeship",
+			"freeshipp",
+			"free_ship_method",
+			"setfree",
+			"$combined",
+			"seal",
+			"addshipping",
+			"$methods[16]",
+			"splitship/boxproducts",
+			"ship_method",
+			"getPosoeShipCode",
+			"product",
+			"popup",
+			"totals",
+			"mail",
+			"16",
+			"name",
+			"sierra",
+			"free",
+			"2080",
+			"rafe",
+			"Crop Sprays",
+			"getShippingAddress",
+			"setItemRestrictionAlerts",
+			"unsItemRestrictionAlerts",
+			"unsShippingAddressAlerts",
+			"setItemRestrictionAlerts",
+			"restriction",
+			"setItemRestrictionAlerts",
+			"alert",
+			"setItemRestrictionAlerts",
+			"getProductAlert",
+			"alert",
+			"setItemRestrictionAlerts",
+			"showFallPotatoAlert",
+			"potato",
+			"policy",
+			"root",
+			"policy",
+			"more and get",
+			"freeShipping",
+			"posoe",
+			"free",
+			"cost_free_boxes",
+			"setCostFreeBoxes",
+			"if ($method['price'] < $methods[1]['price']",
+			"cost_free_boxes",
+			"setFreeShip50Eligible",
+			"isfreeshipping",
+			"isfreeshi",
+			"$isFreeShipping",
+			"pvfgs",
+			"freeship",
+			"top: 0 !",
+			"top:0!",
+			"top:0",
+			"top:0px!",
+			"top:0px !",
+			"top: 0px !",
+			"dropdown-menu.se",
+			"dropdown-menu",
+			"data-position",
+			"valley oak wheel hoes",
+			"valley oak",
+			"sierra",
+			"groworganic",
+			"qty",
+			"zone",
+			"qty",
+			"setFreeShip50Eligible",
+			"cost_free_boxes",
+			"freeship50_eligible",
+			"getqty",
+			"freeship50",
+			"freeship_50",
+			"box",
+			"freeship50",
+			"sierra",
+			"freeship50_eligible",
+			"freeship",
+			"frees",
+			"$product",
+			"$freeShipping",
+			"freeShipping",
+			"freeship50",
+			"set",
+			"freeship50_eligible",
+			"green",
+			"groworganic",
+			"log",
+			"newiron",
+			"sierra",
+			"freeship_50",
+			"freeshipping",
+			"stock",
+			"pre-",
+			"qty",
+			"eta:",
+			"eta",
+			"dollars_off",
+			"alert",
+			"errors!!!",
+			"quality tools",
+			"errors!!!",
+			"alert",
+			"mailto",
+			"alert",
+			"no order alert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "",
+	"project": "hackerrank-php.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
