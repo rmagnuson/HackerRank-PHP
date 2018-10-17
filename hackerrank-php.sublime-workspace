@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
 				"Gr",
 				"Ground"
 			],
@@ -132,10 +144,6 @@
 				"text-align"
 			],
 			[
-				"tex",
-				"text-transform"
-			],
-			[
 				"center",
 				"center"
 			],
@@ -159,6 +167,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/D/Resume/resume.html",
+			"settings":
+			{
+				"buffer_size": 12085,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Time-Conversion.php",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Resume/style.css",
+			"settings":
+			{
+				"buffer_size": 1829,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "body {"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -171,6 +206,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
 			[
 				"settin",
 				"Preferences: Settings"
@@ -236,6 +275,8 @@
 	],
 	"file_history":
 	[
+		"/D/HackerRank-PHP/Diagonal-Difference.php",
+		"/D/HackerRank-PHP/Time-Conversion.php",
 		"/D/magnusontech.net/sftp-config.json",
 		"/C/Users/rafe/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/magnusontech - siteground",
 		"/C/Program Files/Mixxx/skins/RoundCorners-master/style.qss",
@@ -361,13 +402,11 @@
 		"/D/Peaceful Valley/From Mac/pvfgs.com/js/prototype/prototype.js",
 		"/D/Peaceful Valley/From Mac/pvfgs.com/automation/includes/functions.php",
 		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/PV/Checkout/Block/Review.php",
-		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/OnepageCheckout/Model/Observer.php",
-		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Sales/Order/Create/Items/Grid.php",
-		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/core/Mage/Adminhtml/Block/Template.php"
+		"/D/Peaceful Valley/From Mac/pvfgs.com/app/code/local/Alpine/OnepageCheckout/Model/Observer.php"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -382,6 +421,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color: white",
+			"$h",
+			"$m",
+			"im",
+			"m",
 			"HFI",
 			"ship_method",
 			"mail",
@@ -504,12 +548,7 @@
 			"dollars_off",
 			"alert",
 			"errors!!!",
-			"quality tools",
-			"errors!!!",
-			"alert",
-			"mailto",
-			"alert",
-			"no order alert"
+			"quality tools"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -517,6 +556,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"color: black"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -527,14 +567,114 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/Resume/resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Time-Conversion.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Resume/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1081
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body {",
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -575,7 +715,7 @@
 	"project": "hackerrank-php.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
